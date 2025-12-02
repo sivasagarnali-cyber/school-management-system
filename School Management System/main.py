@@ -1,4 +1,2 @@
-class Student:
-    def __init__(self, name, roll):
-        self.name = name
-        self.roll = roll
+print("School Management System Initialized")
+
